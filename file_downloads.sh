@@ -1,0 +1,1 @@
+# when this bash file is triggered it downloads all of the files from the website
